@@ -11,7 +11,29 @@ $icon-font-path: '../../node_modules/bootstrap-sass/assets/fonts/bootstrap/';
 *::after {
   box-sizing: border-box;
 }
-
+h2, h3 {
+  font-family: 'Pacifico', cursive;}
+a{
+  color: black;
+}
 img {
   max-width: 100%;
+}
+//Header
+.heading{
+  background-image: url('http://conceptkicks.com/wp-content/uploads/2012/04/DM-LEATHER-BROWN-1.jpg');
+}
+.logo{
+  background: url('http://conceptkicks.com/wp-content/uploads/2012/04/DM-LEATHER-BROWN-1.jpg');
+}
+.shirtcase{
+  color: white;
+  display: inline;
+  float: right;
+}
+.kart{
+  color: white;
+  display: inline;
+  float: right;
+  margin-right: 5px;
 }
